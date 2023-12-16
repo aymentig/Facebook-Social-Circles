@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The core of the project involves constructing an undirected graph from a dataset of Facebook connections, represented as edges between nodes (users). This is achieved by parsing an edge list from the file `"facebook/0.edges"`. To facilitate a more tangible understanding of the network's structure, the program generates a DOT file of the graph, which is further visualized as a PNG image using Graphviz.
+The core of the project involves constructing an undirected graph from a dataset of Facebook connections, represented as edges between nodes (users). This is achieved by parsing an edge list from the file `"facebook/0.edges"`. To facilitate a more tangible understanding of the network's structure, the program generates a DOT file of the graph.
 
 ## Analytical Components
 
